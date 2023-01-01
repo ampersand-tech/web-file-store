@@ -150,8 +150,8 @@ create-require@^1.1.0:
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
 "data-store@git+ssh://git@github.com:ampersand-tech/data-store.git":
-  version "2.0.0"
-  resolved "git+ssh://git@github.com:ampersand-tech/data-store.git#9c10b2db072bf34fe511401226f2dab8a45ed78c"
+  version "2.1.0"
+  resolved "git+ssh://git@github.com:ampersand-tech/data-store.git#96698d243c9dd85d3207f287a0f2d329760ff962"
   dependencies:
     amper-promise-utils "git+ssh://git@github.com:ampersand-tech/amper-promise-utils.git"
     amper-schema "git+ssh://git@github.com:ampersand-tech/amper-schema.git"
